@@ -1,9 +1,8 @@
 /*
-  Complete RC Control with..
-  Autonomous guidance with simple if statements and variable speeds
-  3/14/17 by Brian Patton
-  Feel free to do whatever you want with this code example
+  Complete RC Control and Autonomous light sensor navigation.
+  MAE 322
 */
+
 #include <Servo.h>
 
 // Create Variables to hold the Receiver signals
